@@ -1,7 +1,9 @@
 # 🎟️ FAST Event Portal
 
 A React-based Event Management Portal developed using React Functional Components and React Bootstrap. The application allows students to browse, filter, and register for events while dynamically managing seat availability and registration statistics.
+## 🌐 Live Demo
 
+https://23f-0517-taha-assignment03-bscs-6e.netlify.app/
 ## 🚀 Features
 
 ### Event Registration
