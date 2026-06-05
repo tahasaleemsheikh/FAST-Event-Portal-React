@@ -35,20 +35,6 @@ A React-based Event Management Portal developed using React Functional Component
 - Functional Components
 - React Hooks
 
-## 📂 Project Structure
-
-```text
-src/
-├── components/
-│   ├── Navbar.js
-│   ├── EventCard.js
-│   ├── FilterBar.js
-│   └── Footer.js
-│
-├── App.js
-└── index.js
-```
-
 ## ✨ Implemented Features
 
 ✅ Event Cards Display
